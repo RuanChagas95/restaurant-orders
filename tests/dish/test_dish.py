@@ -28,7 +28,3 @@ def test_dish():
         Restriction.ANIMAL_DERIVED,
         Restriction.ANIMAL_MEAT
     }
-
-
-if __name__ == "__main__":
-    test_dish()
